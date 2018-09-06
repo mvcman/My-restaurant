@@ -1,6 +1,6 @@
 # Making a restaurant app:
 
->A simple web server file here we can edit ,delete,create our restaurnats name... Build a web service in python that uses your database to implement CRUD operation by n using python framework.
+>A simple application here we can edit ,delete,create our restaurnats menu ietms.Build a web service in python that uses your database to implement CRUD operation using python framework.
 
 # How to run this code:
 >1. Install the VM and Vagrant: This project uses a virtual machine (VM) to run a SQL database server.
